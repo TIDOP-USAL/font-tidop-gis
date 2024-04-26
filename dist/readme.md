@@ -1,11 +1,11 @@
 
-# [font-tidop-gis](https://github.com/Viglino/font-tidop-gis)
+# [Font-TIDOP-GIS](https://github.com/Viglino/font-tidop-gis)
 *Icon font set for use with GIS and spatial analysis tools*
 
 Copyright (c) 2021, Jean-Marc Viglino
 All rights reserved.
 
-**All font-tidop-gis icon and SVG files are licensed under the CC-BY-4.0 License.**
+**All Font-TIDOP-GIS icon and SVG files are licensed under the CC-BY-4.0 License.**
 [Full text](https://creativecommons.org/licenses/by/4.0/)
 
 ![https://creativecommons.org/licenses/by/4.0/](https://i.creativecommons.org/l/by/4.0/88x31.png) 
