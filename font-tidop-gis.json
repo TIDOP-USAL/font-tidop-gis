@@ -372,6 +372,13 @@
     "ftg-screen-dub-o": { "name": "screen-dub-o", "code": 60246, "theme": "tools", "search": "", "order": 104668378, "version": 100006, "date": "2024-04-26" },
     "ftg-screen-mag-o": { "name": "screen-mag-o", "code": 60247, "theme": "tools", "search": "", "order": 104668378, "version": 100006, "date": "2024-04-26" },
     "ftg-screen-mag-alt": { "name": "screen-mag-alt", "code": 60248, "theme": "tools", "search": "", "order": 104668378, "version": 100006, "date": "2024-04-26" },
-    "ftg-route-arrow": { "name": "route-arrow", "code": 57345, "theme": "routing", "search": "", "order": 104668378, "version": 100006, "date": "2024-04-26" }
+
+    "ftg-route-arrow": { "name": "route-arrow", "code": 57345, "theme": "routing", "search": "", "order": 104668378, "version": 100006, "date": "2024-04-26" },
+    "ftg-location-add": { "name": "location-add", "code": 57346, "theme": "poi", "search": "", "order": 104668378, "version": 100006, "date": "2024-04-26" },
+    "ftg-location-remove": { "name": "location-remove", "code": 57347, "theme": "poi", "search": "", "order": 104668378, "version": 100006, "date": "2024-04-26" },
+    "ftg-location-pin": { "name": "location-pin", "code": 57348, "theme": "poi", "search": "", "order": 104668378, "version": 100006, "date": "2024-04-26" },
+    "ftg-location-direction": { "name": "location-direction", "code": 57349, "theme": "poi", "search": "", "order": 104668378, "version": 100006, "date": "2024-04-26" },
+    "ftg-location-delete": { "name": "location-delete", "code": 57350, "theme": "poi", "search": "", "order": 104668378, "version": 100006, "date": "2024-04-26" },
+    "ftg-location-config": { "name": "location-config", "code": 57351, "theme": "poi", "search": "", "order": 104668378, "version": 100006, "date": "2024-04-26" }
   }
 }

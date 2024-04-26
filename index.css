@@ -28,7 +28,7 @@ ul {
 #icon > div,
 [data-page] {
   position: relative;
-  max-width: 800px;
+  max-width: 95%;
   margin-left: auto;
   margin-right: auto;
   display: block;
