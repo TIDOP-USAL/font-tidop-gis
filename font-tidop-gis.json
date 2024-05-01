@@ -1,7 +1,7 @@
 {
   "font": "font-tidop-gis",
   "description": "Icon font set for use with GIS and spatial analysis tools",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "prefix": "ftg",
   "copyright": "Juanra Charco",
   "license": "Apache-2.0",
@@ -265,6 +265,7 @@
     "ftg-location-direction": { "name": "location-direction", "code": 57349, "theme": "poi", "search": "", "order": 104668378, "version": 100006, "date": "2024-04-26" },
     "ftg-location-delete": { "name": "location-delete", "code": 57350, "theme": "poi", "search": "", "order": 104668378, "version": 100006, "date": "2024-04-26" },
     "ftg-location-config": { "name": "location-config", "code": 57351, "theme": "poi", "search": "", "order": 104668378, "version": 100006, "date": "2024-04-26" },
+    "ftg-add-location-point": { "name": "add-location-point", "code": 57358, "theme": "poi", "search": "", "order": 104668378, "version": 100006, "date": "2024-04-26" },
     "ftg-poi": { "name": "poi", "code": 59926, "theme": "poi", "search": "", "order": 104668378, "version": 100006, "date": "2024-04-26" },
     "ftg-poi-o": { "name": "poi-o", "code": 59927, "theme": "poi", "search": "", "order": 104668378, "version": 100006, "date": "2024-04-26" },
     "ftg-poi-alt": { "name": "poi-alt", "code": 59928, "theme": "poi", "search": "", "order": 104668378, "version": 100006, "date": "2024-04-26" },

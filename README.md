@@ -30,4 +30,3 @@ Use an inline element with a class prefixed with `ftg-` to add a new icon.
 <span class="ftg-polyline-pt"></span>
 ```
 
-
