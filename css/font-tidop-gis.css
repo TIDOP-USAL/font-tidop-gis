@@ -5,11 +5,11 @@
  */
 @font-face {
   font-family: "font-tidop-gis";
-  src: url('../fonts/font-tidop-gis.eot?t=1714564602716');
+  src: url('../fonts/font-tidop-gis.eot?t=1716302166007');
   src: url('../fonts/font-tidop-gis.eot?#iefix') format('eot'),
-    url('../fonts/font-tidop-gis.woff2?t=1714564602716') format('woff2'),
-    url('../fonts/font-tidop-gis.woff?t=1714564602716') format('woff'),
-    url('../fonts/font-tidop-gis.ttf?t=1714564602716') format('truetype'),
+    url('../fonts/font-tidop-gis.woff2?t=1716302166007') format('woff2'),
+    url('../fonts/font-tidop-gis.woff?t=1716302166007') format('woff'),
+    url('../fonts/font-tidop-gis.ttf?t=1716302166007') format('truetype'),
     url('../fonts/font-tidop-gis.svg#font-tidop-gis') format('svg');
   font-weight: normal;
   font-style: normal;
@@ -501,6 +501,7 @@
 .ftg-satellite2:before { content: "\e00d"; }
 .ftg-satellite:before { content: "\eb3a"; }
 .ftg-satellite-earth:before { content: "\eb3b"; }
+.ftg-zoom-extent:before { content: "\e00f"; }
 .ftg-map-search:before { content: "\ea5e"; }
 .ftg-search-map:before { content: "\ea5f"; }
 .ftg-search-poi:before { content: "\ea60"; }

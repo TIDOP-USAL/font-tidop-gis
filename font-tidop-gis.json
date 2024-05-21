@@ -344,6 +344,7 @@
     "ftg-satellite2": { "name": "satellite2", "code": 57357, "theme": "satellite", "search": "", "order": 104668378, "version": 100006, "date": "2024-04-26" },
     "ftg-satellite": { "name": "satellite", "code": 60218, "theme": "satellite", "search": "", "order": 104668378, "version": 100006, "date": "2024-04-26" },
     "ftg-satellite-earth": { "name": "satellite-earth", "code": 60219, "theme": "satellite", "search": "", "order": 104668378, "version": 100006, "date": "2024-04-26" },
+    "ftg-zoom-extent": { "name": "zoom-extent", "code": 57359, "theme": "search", "search": "", "order": 104668378, "version": 100006, "date": "2024-05-21" },
     "ftg-map-search": { "name": "map-search", "code": 59998, "theme": "search", "search": "", "order": 104668378, "version": 100006, "date": "2024-04-26" },
     "ftg-search-map": { "name": "search-map", "code": 59999, "theme": "search", "search": "", "order": 104668378, "version": 100006, "date": "2024-04-26" },
     "ftg-search-poi": { "name": "search-poi", "code": 60000, "theme": "search", "search": "", "order": 104668378, "version": 100006, "date": "2024-04-26" },

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="c939a291-56d6-41e4-858e-7a6b6b36e07a" name="192.168.18.119">
-        <fileTransfer rootFolder="/home/tidop/font-tidop-gis" accessType="SFTP" host="192.168.18.119" port="22" sshConfigId="6001b092-8759-4e2f-954d-410391c86069" sshConfig="tidop@192.168.18.119:22 password">
+      <webServer id="c939a291-56d6-41e4-858e-7a6b6b36e07a" name="tidop-font-gis">
+        <fileTransfer rootFolder="/home/tidop/font-tidop-gis" accessType="SFTP" host="192.168.18.120" port="22" sshConfigId="6001b092-8759-4e2f-954d-410391c86069" sshConfig="tidop@192.168.18.120:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
