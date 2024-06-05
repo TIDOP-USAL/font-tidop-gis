@@ -1,15 +1,15 @@
-/* font-tidop-gis - v.1.0.4 
+/* font-tidop-gis - v.1.0.6 
  * Icon font set for use with GIS and spatial analysis tools
  * 2024 (c) Juanra Charco - Apache-2.0
  * https://github.com/TIDOP-USAL/font-tidop-gis
  */
 @font-face {
   font-family: "font-tidop-gis";
-  src: url('../fonts/font-tidop-gis.eot?t=1716302166007');
+  src: url('../fonts/font-tidop-gis.eot?t=1717587596340');
   src: url('../fonts/font-tidop-gis.eot?#iefix') format('eot'),
-    url('../fonts/font-tidop-gis.woff2?t=1716302166007') format('woff2'),
-    url('../fonts/font-tidop-gis.woff?t=1716302166007') format('woff'),
-    url('../fonts/font-tidop-gis.ttf?t=1716302166007') format('truetype'),
+    url('../fonts/font-tidop-gis.woff2?t=1717587596340') format('woff2'),
+    url('../fonts/font-tidop-gis.woff?t=1717587596340') format('woff'),
+    url('../fonts/font-tidop-gis.ttf?t=1717587596340') format('truetype'),
     url('../fonts/font-tidop-gis.svg#font-tidop-gis') format('svg');
   font-weight: normal;
   font-style: normal;
@@ -172,44 +172,6 @@
 .ftg-compass-rose-n:before { content: "\ea93"; }
 .ftg-compass-alt:before { content: "\eb06"; }
 .ftg-compass-alt-o:before { content: "\eb07"; }
-.ftg-drone:before { content: "\eb3f"; }
-.ftg-segment:before { content: "\e008"; }
-.ftg-arrow-o:before { content: "\ea3a"; }
-.ftg-arrow:before { content: "\ea3b"; }
-.ftg-modify-line:before { content: "\ea3c"; }
-.ftg-modify-poly:before { content: "\ea3d"; }
-.ftg-modify-poly-o:before { content: "\ea40"; }
-.ftg-copy-point:before { content: "\ea4f"; }
-.ftg-copy-line:before { content: "\ea50"; }
-.ftg-copy-poly:before { content: "\ea51"; }
-.ftg-buffer:before { content: "\ea6e"; }
-.ftg-difference:before { content: "\ea6f"; }
-.ftg-intersection:before { content: "\ea70"; }
-.ftg-union:before { content: "\ea71"; }
-.ftg-sym-difference:before { content: "\ea72"; }
-.ftg-move:before { content: "\ea73"; }
-.ftg-move-alt:before { content: "\ea74"; }
-.ftg-offset:before { content: "\ea75"; }
-.ftg-snap:before { content: "\ea76"; }
-.ftg-split:before { content: "\ea77"; }
-.ftg-split-line:before { content: "\ea78"; }
-.ftg-split-polygon:before { content: "\ea79"; }
-.ftg-convex-hull:before { content: "\eaa8"; }
-.ftg-select-extent:before { content: "\eaad"; }
-.ftg-snap-ortho:before { content: "\eaae"; }
-.ftg-color:before { content: "\eaaf"; }
-.ftg-rotate:before { content: "\eae3"; }
-.ftg-flip-h:before { content: "\eae4"; }
-.ftg-flip-v:before { content: "\eae5"; }
-.ftg-simplify:before { content: "\eae6"; }
-.ftg-proj-point:before { content: "\eae7"; }
-.ftg-scale-poly:before { content: "\eae8"; }
-.ftg-skeletonize:before { content: "\eb17"; }
-.ftg-dilatation:before { content: "\eb18"; }
-.ftg-erosion:before { content: "\eb19"; }
-.ftg-translate:before { content: "\eb26"; }
-.ftg-translate-x:before { content: "\eb27"; }
-.ftg-translate-y:before { content: "\eb28"; }
 .ftg-gpx-file:before { content: "\ea99"; }
 .ftg-geojson-file:before { content: "\ea9a"; }
 .ftg-kml-file:before { content: "\ea9b"; }
@@ -247,6 +209,79 @@
 .ftg-sos:before { content: "\eb64"; }
 .ftg-sps:before { content: "\eb65"; }
 .ftg-csw:before { content: "\eb66"; }
+.ftg-segment:before { content: "\e008"; }
+.ftg-arrow-o:before { content: "\ea3a"; }
+.ftg-arrow:before { content: "\ea3b"; }
+.ftg-modify-line:before { content: "\ea3c"; }
+.ftg-modify-poly:before { content: "\ea3d"; }
+.ftg-modify-poly-o:before { content: "\ea40"; }
+.ftg-copy-point:before { content: "\ea4f"; }
+.ftg-copy-line:before { content: "\ea50"; }
+.ftg-copy-poly:before { content: "\ea51"; }
+.ftg-buffer:before { content: "\ea6e"; }
+.ftg-difference:before { content: "\ea6f"; }
+.ftg-intersection:before { content: "\ea70"; }
+.ftg-union:before { content: "\ea71"; }
+.ftg-sym-difference:before { content: "\ea72"; }
+.ftg-move:before { content: "\ea73"; }
+.ftg-move-alt:before { content: "\ea74"; }
+.ftg-offset:before { content: "\ea75"; }
+.ftg-snap:before { content: "\ea76"; }
+.ftg-split:before { content: "\ea77"; }
+.ftg-split-line:before { content: "\ea78"; }
+.ftg-split-polygon:before { content: "\ea79"; }
+.ftg-convex-hull:before { content: "\eaa8"; }
+.ftg-select-extent:before { content: "\eaad"; }
+.ftg-snap-ortho:before { content: "\eaae"; }
+.ftg-color:before { content: "\eaaf"; }
+.ftg-rotate:before { content: "\eae3"; }
+.ftg-flip-h:before { content: "\eae4"; }
+.ftg-flip-v:before { content: "\eae5"; }
+.ftg-simplify:before { content: "\eae6"; }
+.ftg-proj-point:before { content: "\eae7"; }
+.ftg-scale-poly:before { content: "\eae8"; }
+.ftg-skeletonize:before { content: "\eb17"; }
+.ftg-dilatation:before { content: "\eb18"; }
+.ftg-erosion:before { content: "\eb19"; }
+.ftg-translate:before { content: "\eb26"; }
+.ftg-translate-x:before { content: "\eb27"; }
+.ftg-translate-y:before { content: "\eb28"; }
+.ftg-drone:before { content: "\eb3f"; }
+.ftg-layer:before { content: "\ea41"; }
+.ftg-layer-o:before { content: "\ea42"; }
+.ftg-layers:before { content: "\ea43"; }
+.ftg-layers-o:before { content: "\ea44"; }
+.ftg-layer-up:before { content: "\ea45"; }
+.ftg-layer-down:before { content: "\ea46"; }
+.ftg-layer-alt:before { content: "\ea47"; }
+.ftg-layer-alt-o:before { content: "\ea48"; }
+.ftg-layer-stack:before { content: "\ea49"; }
+.ftg-layer-stack-o:before { content: "\ea4a"; }
+.ftg-layer-add:before { content: "\ea4b"; }
+.ftg-layer-add-o:before { content: "\ea4c"; }
+.ftg-layer-rm:before { content: "\ea4d"; }
+.ftg-layer-rm-o:before { content: "\ea4e"; }
+.ftg-layer-poi:before { content: "\ea6a"; }
+.ftg-layer-download:before { content: "\ea97"; }
+.ftg-layer-upload:before { content: "\ea98"; }
+.ftg-layer-road:before { content: "\eaf0"; }
+.ftg-layer-hydro:before { content: "\eaf1"; }
+.ftg-layer-landcover:before { content: "\eaf2"; }
+.ftg-layer-contour:before { content: "\eaf3"; }
+.ftg-layer-stat:before { content: "\eaf4"; }
+.ftg-layer-stat-alt:before { content: "\eb29"; }
+.ftg-layer-edit:before { content: "\eb2d"; }
+.ftg-layer-alt-edit:before { content: "\eb2e"; }
+.ftg-layer-height:before { content: "\eb41"; }
+.ftg-layer-2-add-o:before { content: "\eb46"; }
+.ftg-layer-2-rm-o:before { content: "\eb47"; }
+.ftg-layer-alt-add-o:before { content: "\eb48"; }
+.ftg-layer-alt-rm-o:before { content: "\eb49"; }
+.ftg-layer-alt-x-o:before { content: "\eb4a"; }
+.ftg-layers-poi:before { content: "\eb4f"; }
+.ftg-layer-alt-poi:before { content: "\eb50"; }
+.ftg-mosaic:before { content: "\eb6c"; }
+.ftg-pyramid:before { content: "\eb6d"; }
 .ftg-point:before { content: "\ea01"; }
 .ftg-polyline-pt:before { content: "\ea02"; }
 .ftg-polygon-pt:before { content: "\ea03"; }
@@ -273,6 +308,10 @@
 .ftg-regular-shape-pt:before { content: "\eaeb"; }
 .ftg-regular-shape-o:before { content: "\eaec"; }
 .ftg-regular-shape:before { content: "\eaed"; }
+.ftg-log-wood:before { content: "\e010"; }
+.ftg-help-larrow:before { content: "\ea3e"; }
+.ftg-help-rarrow:before { content: "\ea3f"; }
+.ftg-home:before { content: "\eb14"; }
 .ftg-earth:before { content: "\ea22"; }
 .ftg-earth-euro-africa:before { content: "\ea23"; }
 .ftg-earth-atlantic:before { content: "\ea24"; }
@@ -316,41 +355,6 @@
 .ftg-earth-network:before { content: "\eb0f"; }
 .ftg-earth-network-o:before { content: "\eb10"; }
 .ftg-globe-gear:before { content: "\eb11"; }
-.ftg-layer:before { content: "\ea41"; }
-.ftg-layer-o:before { content: "\ea42"; }
-.ftg-layers:before { content: "\ea43"; }
-.ftg-layers-o:before { content: "\ea44"; }
-.ftg-layer-up:before { content: "\ea45"; }
-.ftg-layer-down:before { content: "\ea46"; }
-.ftg-layer-alt:before { content: "\ea47"; }
-.ftg-layer-alt-o:before { content: "\ea48"; }
-.ftg-layer-stack:before { content: "\ea49"; }
-.ftg-layer-stack-o:before { content: "\ea4a"; }
-.ftg-layer-add:before { content: "\ea4b"; }
-.ftg-layer-add-o:before { content: "\ea4c"; }
-.ftg-layer-rm:before { content: "\ea4d"; }
-.ftg-layer-rm-o:before { content: "\ea4e"; }
-.ftg-layer-poi:before { content: "\ea6a"; }
-.ftg-layer-download:before { content: "\ea97"; }
-.ftg-layer-upload:before { content: "\ea98"; }
-.ftg-layer-road:before { content: "\eaf0"; }
-.ftg-layer-hydro:before { content: "\eaf1"; }
-.ftg-layer-landcover:before { content: "\eaf2"; }
-.ftg-layer-contour:before { content: "\eaf3"; }
-.ftg-layer-stat:before { content: "\eaf4"; }
-.ftg-layer-stat-alt:before { content: "\eb29"; }
-.ftg-layer-edit:before { content: "\eb2d"; }
-.ftg-layer-alt-edit:before { content: "\eb2e"; }
-.ftg-layer-height:before { content: "\eb41"; }
-.ftg-layer-2-add-o:before { content: "\eb46"; }
-.ftg-layer-2-rm-o:before { content: "\eb47"; }
-.ftg-layer-alt-add-o:before { content: "\eb48"; }
-.ftg-layer-alt-rm-o:before { content: "\eb49"; }
-.ftg-layer-alt-x-o:before { content: "\eb4a"; }
-.ftg-layers-poi:before { content: "\eb4f"; }
-.ftg-layer-alt-poi:before { content: "\eb50"; }
-.ftg-mosaic:before { content: "\eb6c"; }
-.ftg-pyramid:before { content: "\eb6d"; }
 .ftg-map:before { content: "\ea53"; }
 .ftg-map-o:before { content: "\ea54"; }
 .ftg-map-poi:before { content: "\ea55"; }
@@ -407,15 +411,6 @@
 .ftg-height-map:before { content: "\eb40"; }
 .ftg-map-user:before { content: "\eb4b"; }
 .ftg-map-users:before { content: "\eb4c"; }
-.ftg-measure:before { content: "\ea08"; }
-.ftg-measure-line:before { content: "\ea13"; }
-.ftg-measure-area:before { content: "\ea14"; }
-.ftg-measure-area-alt:before { content: "\ea15"; }
-.ftg-scale:before { content: "\eb01"; }
-.ftg-azimuth:before { content: "\eb53"; }
-.ftg-help-larrow:before { content: "\ea3e"; }
-.ftg-help-rarrow:before { content: "\ea3f"; }
-.ftg-home:before { content: "\eb14"; }
 .ftg-location-add:before { content: "\e002"; }
 .ftg-location-remove:before { content: "\e003"; }
 .ftg-location-pin:before { content: "\e004"; }
@@ -453,11 +448,12 @@
 .ftg-position-man:before { content: "\eb24"; }
 .ftg-poi-slash:before { content: "\eb4d"; }
 .ftg-poi-slash-o:before { content: "\eb4e"; }
-.ftg-proj-conic:before { content: "\eb67"; }
-.ftg-proj-geo:before { content: "\eb68"; }
-.ftg-proj-square:before { content: "\eb69"; }
-.ftg-proj-stereo:before { content: "\eb6a"; }
-.ftg-proj-utm:before { content: "\eb6b"; }
+.ftg-measure:before { content: "\ea08"; }
+.ftg-measure-line:before { content: "\ea13"; }
+.ftg-measure-area:before { content: "\ea14"; }
+.ftg-measure-area-alt:before { content: "\ea15"; }
+.ftg-scale:before { content: "\eb01"; }
+.ftg-azimuth:before { content: "\eb53"; }
 .ftg-route-arrow:before { content: "\e001"; }
 .ftg-route:before { content: "\ea7b"; }
 .ftg-route-start:before { content: "\ea7c"; }
@@ -516,6 +512,11 @@
 .ftg-search-globe-alt:before { content: "\eafa"; }
 .ftg-search-coord:before { content: "\eb12"; }
 .ftg-search-data:before { content: "\eb13"; }
+.ftg-proj-conic:before { content: "\eb67"; }
+.ftg-proj-geo:before { content: "\eb68"; }
+.ftg-proj-square:before { content: "\eb69"; }
+.ftg-proj-stereo:before { content: "\eb6a"; }
+.ftg-proj-utm:before { content: "\eb6b"; }
 .ftg-zoom-in:before { content: "\eaa5"; }
 .ftg-zoom-out:before { content: "\eaa6"; }
 .ftg-full-screen:before { content: "\eaa7"; }
