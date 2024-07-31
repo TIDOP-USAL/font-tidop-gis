@@ -1,15 +1,15 @@
-/* font-tidop-gis - v.1.0.6 
+/* font-tidop-gis - v.1.0.8 
  * Icon font set for use with GIS and spatial analysis tools
  * 2024 (c) Juanra Charco - Apache-2.0
  * https://github.com/TIDOP-USAL/font-tidop-gis
  */
 @font-face {
   font-family: "font-tidop-gis";
-  src: url('../fonts/font-tidop-gis.eot?t=1717587596340');
+  src: url('../fonts/font-tidop-gis.eot?t=1722421137088');
   src: url('../fonts/font-tidop-gis.eot?#iefix') format('eot'),
-    url('../fonts/font-tidop-gis.woff2?t=1717587596340') format('woff2'),
-    url('../fonts/font-tidop-gis.woff?t=1717587596340') format('woff'),
-    url('../fonts/font-tidop-gis.ttf?t=1717587596340') format('truetype'),
+    url('../fonts/font-tidop-gis.woff2?t=1722421137088') format('woff2'),
+    url('../fonts/font-tidop-gis.woff?t=1722421137088') format('woff'),
+    url('../fonts/font-tidop-gis.ttf?t=1722421137088') format('truetype'),
     url('../fonts/font-tidop-gis.svg#font-tidop-gis') format('svg');
   font-weight: normal;
   font-style: normal;
@@ -172,43 +172,7 @@
 .ftg-compass-rose-n:before { content: "\ea93"; }
 .ftg-compass-alt:before { content: "\eb06"; }
 .ftg-compass-alt-o:before { content: "\eb07"; }
-.ftg-gpx-file:before { content: "\ea99"; }
-.ftg-geojson-file:before { content: "\ea9a"; }
-.ftg-kml-file:before { content: "\ea9b"; }
-.ftg-wms:before { content: "\ea9c"; }
-.ftg-wmts:before { content: "\ea9d"; }
-.ftg-wfs:before { content: "\ea9e"; }
-.ftg-wfs-t:before { content: "\ea9f"; }
-.ftg-mvt:before { content: "\eaa0"; }
-.ftg-xyz:before { content: "\eaa1"; }
-.ftg-shape-file:before { content: "\eaa2"; }
-.ftg-esri-json-file:before { content: "\eaa3"; }
-.ftg-topojson-file:before { content: "\eaa4"; }
-.ftg-folder-map:before { content: "\eb2f"; }
-.ftg-world-folder-o:before { content: "\eb30"; }
-.ftg-world-folder:before { content: "\eb31"; }
-.ftg-folder-globe:before { content: "\eb32"; }
-.ftg-folder-globe-o:before { content: "\eb33"; }
-.ftg-folder-maps:before { content: "\eb34"; }
-.ftg-folder-poi:before { content: "\eb35"; }
-.ftg-folder-poi-o:before { content: "\eb36"; }
-.ftg-folder-pois:before { content: "\eb37"; }
-.ftg-earth-net:before { content: "\eb38"; }
-.ftg-earth-net-o:before { content: "\eb39"; }
-.ftg-wcs:before { content: "\eb59"; }
-.ftg-i3s-file:before { content: "\eb5a"; }
-.ftg-i3s-web:before { content: "\eb5b"; }
-.ftg-3dtiles-file:before { content: "\eb5c"; }
-.ftg-3dtiles-web:before { content: "\eb5d"; }
-.ftg-wps:before { content: "\eb5e"; }
-.ftg-wcps:before { content: "\eb5f"; }
-.ftg-openls:before { content: "\eb60"; }
-.ftg-wmc:before { content: "\eb61"; }
-.ftg-tjs:before { content: "\eb62"; }
-.ftg-sld:before { content: "\eb63"; }
-.ftg-sos:before { content: "\eb64"; }
-.ftg-sps:before { content: "\eb65"; }
-.ftg-csw:before { content: "\eb66"; }
+.ftg-drone:before { content: "\eb3f"; }
 .ftg-segment:before { content: "\e008"; }
 .ftg-arrow-o:before { content: "\ea3a"; }
 .ftg-arrow:before { content: "\ea3b"; }
@@ -246,42 +210,43 @@
 .ftg-translate:before { content: "\eb26"; }
 .ftg-translate-x:before { content: "\eb27"; }
 .ftg-translate-y:before { content: "\eb28"; }
-.ftg-drone:before { content: "\eb3f"; }
-.ftg-layer:before { content: "\ea41"; }
-.ftg-layer-o:before { content: "\ea42"; }
-.ftg-layers:before { content: "\ea43"; }
-.ftg-layers-o:before { content: "\ea44"; }
-.ftg-layer-up:before { content: "\ea45"; }
-.ftg-layer-down:before { content: "\ea46"; }
-.ftg-layer-alt:before { content: "\ea47"; }
-.ftg-layer-alt-o:before { content: "\ea48"; }
-.ftg-layer-stack:before { content: "\ea49"; }
-.ftg-layer-stack-o:before { content: "\ea4a"; }
-.ftg-layer-add:before { content: "\ea4b"; }
-.ftg-layer-add-o:before { content: "\ea4c"; }
-.ftg-layer-rm:before { content: "\ea4d"; }
-.ftg-layer-rm-o:before { content: "\ea4e"; }
-.ftg-layer-poi:before { content: "\ea6a"; }
-.ftg-layer-download:before { content: "\ea97"; }
-.ftg-layer-upload:before { content: "\ea98"; }
-.ftg-layer-road:before { content: "\eaf0"; }
-.ftg-layer-hydro:before { content: "\eaf1"; }
-.ftg-layer-landcover:before { content: "\eaf2"; }
-.ftg-layer-contour:before { content: "\eaf3"; }
-.ftg-layer-stat:before { content: "\eaf4"; }
-.ftg-layer-stat-alt:before { content: "\eb29"; }
-.ftg-layer-edit:before { content: "\eb2d"; }
-.ftg-layer-alt-edit:before { content: "\eb2e"; }
-.ftg-layer-height:before { content: "\eb41"; }
-.ftg-layer-2-add-o:before { content: "\eb46"; }
-.ftg-layer-2-rm-o:before { content: "\eb47"; }
-.ftg-layer-alt-add-o:before { content: "\eb48"; }
-.ftg-layer-alt-rm-o:before { content: "\eb49"; }
-.ftg-layer-alt-x-o:before { content: "\eb4a"; }
-.ftg-layers-poi:before { content: "\eb4f"; }
-.ftg-layer-alt-poi:before { content: "\eb50"; }
-.ftg-mosaic:before { content: "\eb6c"; }
-.ftg-pyramid:before { content: "\eb6d"; }
+.ftg-gpx-file:before { content: "\ea99"; }
+.ftg-geojson-file:before { content: "\ea9a"; }
+.ftg-kml-file:before { content: "\ea9b"; }
+.ftg-wms:before { content: "\ea9c"; }
+.ftg-wmts:before { content: "\ea9d"; }
+.ftg-wfs:before { content: "\ea9e"; }
+.ftg-wfs-t:before { content: "\ea9f"; }
+.ftg-mvt:before { content: "\eaa0"; }
+.ftg-xyz:before { content: "\eaa1"; }
+.ftg-shape-file:before { content: "\eaa2"; }
+.ftg-esri-json-file:before { content: "\eaa3"; }
+.ftg-topojson-file:before { content: "\eaa4"; }
+.ftg-folder-map:before { content: "\eb2f"; }
+.ftg-world-folder-o:before { content: "\eb30"; }
+.ftg-world-folder:before { content: "\eb31"; }
+.ftg-folder-globe:before { content: "\eb32"; }
+.ftg-folder-globe-o:before { content: "\eb33"; }
+.ftg-folder-maps:before { content: "\eb34"; }
+.ftg-folder-poi:before { content: "\eb35"; }
+.ftg-folder-poi-o:before { content: "\eb36"; }
+.ftg-folder-pois:before { content: "\eb37"; }
+.ftg-earth-net:before { content: "\eb38"; }
+.ftg-earth-net-o:before { content: "\eb39"; }
+.ftg-wcs:before { content: "\eb59"; }
+.ftg-i3s-file:before { content: "\eb5a"; }
+.ftg-i3s-web:before { content: "\eb5b"; }
+.ftg-3dtiles-file:before { content: "\eb5c"; }
+.ftg-3dtiles-web:before { content: "\eb5d"; }
+.ftg-wps:before { content: "\eb5e"; }
+.ftg-wcps:before { content: "\eb5f"; }
+.ftg-openls:before { content: "\eb60"; }
+.ftg-wmc:before { content: "\eb61"; }
+.ftg-tjs:before { content: "\eb62"; }
+.ftg-sld:before { content: "\eb63"; }
+.ftg-sos:before { content: "\eb64"; }
+.ftg-sps:before { content: "\eb65"; }
+.ftg-csw:before { content: "\eb66"; }
 .ftg-point:before { content: "\ea01"; }
 .ftg-polyline-pt:before { content: "\ea02"; }
 .ftg-polygon-pt:before { content: "\ea03"; }
@@ -308,10 +273,6 @@
 .ftg-regular-shape-pt:before { content: "\eaeb"; }
 .ftg-regular-shape-o:before { content: "\eaec"; }
 .ftg-regular-shape:before { content: "\eaed"; }
-.ftg-log-wood:before { content: "\e010"; }
-.ftg-help-larrow:before { content: "\ea3e"; }
-.ftg-help-rarrow:before { content: "\ea3f"; }
-.ftg-home:before { content: "\eb14"; }
 .ftg-earth:before { content: "\ea22"; }
 .ftg-earth-euro-africa:before { content: "\ea23"; }
 .ftg-earth-atlantic:before { content: "\ea24"; }
@@ -355,6 +316,42 @@
 .ftg-earth-network:before { content: "\eb0f"; }
 .ftg-earth-network-o:before { content: "\eb10"; }
 .ftg-globe-gear:before { content: "\eb11"; }
+.ftg-layer:before { content: "\ea41"; }
+.ftg-layer-o:before { content: "\ea42"; }
+.ftg-layers:before { content: "\ea43"; }
+.ftg-layers-o:before { content: "\ea44"; }
+.ftg-layer-up:before { content: "\ea45"; }
+.ftg-layer-down:before { content: "\ea46"; }
+.ftg-layer-alt:before { content: "\ea47"; }
+.ftg-layer-alt-o:before { content: "\ea48"; }
+.ftg-layer-stack:before { content: "\ea49"; }
+.ftg-layer-stack-o:before { content: "\ea4a"; }
+.ftg-layer-add:before { content: "\ea4b"; }
+.ftg-layer-add-o:before { content: "\ea4c"; }
+.ftg-layer-rm:before { content: "\ea4d"; }
+.ftg-layer-rm-o:before { content: "\ea4e"; }
+.ftg-layer-poi:before { content: "\ea6a"; }
+.ftg-layer-download:before { content: "\ea97"; }
+.ftg-layer-upload:before { content: "\ea98"; }
+.ftg-layer-road:before { content: "\eaf0"; }
+.ftg-layer-hydro:before { content: "\eaf1"; }
+.ftg-layer-landcover:before { content: "\eaf2"; }
+.ftg-layer-contour:before { content: "\eaf3"; }
+.ftg-layer-stat:before { content: "\eaf4"; }
+.ftg-layer-stat-alt:before { content: "\eb29"; }
+.ftg-layer-edit:before { content: "\eb2d"; }
+.ftg-layer-alt-edit:before { content: "\eb2e"; }
+.ftg-layer-height:before { content: "\eb41"; }
+.ftg-layer-2-add-o:before { content: "\eb46"; }
+.ftg-layer-2-rm-o:before { content: "\eb47"; }
+.ftg-layer-alt-add-o:before { content: "\eb48"; }
+.ftg-layer-alt-rm-o:before { content: "\eb49"; }
+.ftg-layer-alt-x-o:before { content: "\eb4a"; }
+.ftg-layers-poi:before { content: "\eb4f"; }
+.ftg-layer-alt-poi:before { content: "\eb50"; }
+.ftg-mosaic:before { content: "\eb6c"; }
+.ftg-pyramid:before { content: "\eb6d"; }
+.ftg-chameleon-logo:before { content: "\e013"; }
 .ftg-map:before { content: "\ea53"; }
 .ftg-map-o:before { content: "\ea54"; }
 .ftg-map-poi:before { content: "\ea55"; }
@@ -411,6 +408,15 @@
 .ftg-height-map:before { content: "\eb40"; }
 .ftg-map-user:before { content: "\eb4b"; }
 .ftg-map-users:before { content: "\eb4c"; }
+.ftg-measure:before { content: "\ea08"; }
+.ftg-measure-line:before { content: "\ea13"; }
+.ftg-measure-area:before { content: "\ea14"; }
+.ftg-measure-area-alt:before { content: "\ea15"; }
+.ftg-scale:before { content: "\eb01"; }
+.ftg-azimuth:before { content: "\eb53"; }
+.ftg-help-larrow:before { content: "\ea3e"; }
+.ftg-help-rarrow:before { content: "\ea3f"; }
+.ftg-home:before { content: "\eb14"; }
 .ftg-location-add:before { content: "\e002"; }
 .ftg-location-remove:before { content: "\e003"; }
 .ftg-location-pin:before { content: "\e004"; }
@@ -448,12 +454,11 @@
 .ftg-position-man:before { content: "\eb24"; }
 .ftg-poi-slash:before { content: "\eb4d"; }
 .ftg-poi-slash-o:before { content: "\eb4e"; }
-.ftg-measure:before { content: "\ea08"; }
-.ftg-measure-line:before { content: "\ea13"; }
-.ftg-measure-area:before { content: "\ea14"; }
-.ftg-measure-area-alt:before { content: "\ea15"; }
-.ftg-scale:before { content: "\eb01"; }
-.ftg-azimuth:before { content: "\eb53"; }
+.ftg-proj-conic:before { content: "\eb67"; }
+.ftg-proj-geo:before { content: "\eb68"; }
+.ftg-proj-square:before { content: "\eb69"; }
+.ftg-proj-stereo:before { content: "\eb6a"; }
+.ftg-proj-utm:before { content: "\eb6b"; }
 .ftg-route-arrow:before { content: "\e001"; }
 .ftg-route:before { content: "\ea7b"; }
 .ftg-route-start:before { content: "\ea7c"; }
@@ -512,11 +517,6 @@
 .ftg-search-globe-alt:before { content: "\eafa"; }
 .ftg-search-coord:before { content: "\eb12"; }
 .ftg-search-data:before { content: "\eb13"; }
-.ftg-proj-conic:before { content: "\eb67"; }
-.ftg-proj-geo:before { content: "\eb68"; }
-.ftg-proj-square:before { content: "\eb69"; }
-.ftg-proj-stereo:before { content: "\eb6a"; }
-.ftg-proj-utm:before { content: "\eb6b"; }
 .ftg-zoom-in:before { content: "\eaa5"; }
 .ftg-zoom-out:before { content: "\eaa6"; }
 .ftg-full-screen:before { content: "\eaa7"; }
