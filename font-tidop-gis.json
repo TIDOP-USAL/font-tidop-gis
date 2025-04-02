@@ -1,7 +1,7 @@
 {
   "font": "font-tidop-gis",
   "description": "Icon font set for use with GIS and spatial analysis tools",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "prefix": "ftg",
   "copyright": "Juanra Charco",
   "license": "Apache-2.0",
@@ -270,6 +270,7 @@
     "ftg-forest-census": { "name": "forest-census", "code": 57370, "theme": "nature", "search": "", "order": 104668378, "version": 100006, "date": "2024-09-19" },
     "ftg-industry-biomass": { "name": "industry-biomass", "code": 57372, "theme": "nature", "search": "", "order": 104668378, "version": 100006, "date": "2025-04-01" },
     "ftg-nature-fire-risk": { "name": "nature-fire-risk", "code": 57373, "theme": "nature", "search": "", "order": 104668378, "version": 100006, "date": "2025-04-01" },
+    "ftg-co2-biomass": { "name": "co2-biomass", "code": 57374, "theme": "nature", "search": "", "order": 104668378, "version": 100006, "date": "2025-04-02" },
     "ftg-location-add": { "name": "location-add", "code": 57346, "theme": "poi", "search": "", "order": 104668378, "version": 100006, "date": "2024-04-26" },
     "ftg-location-remove": { "name": "location-remove", "code": 57347, "theme": "poi", "search": "", "order": 104668378, "version": 100006, "date": "2024-04-26" },
     "ftg-location-pin": { "name": "location-pin", "code": 57348, "theme": "poi", "search": "", "order": 104668378, "version": 100006, "date": "2024-04-26" },
