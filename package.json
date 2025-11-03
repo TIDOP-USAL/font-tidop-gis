@@ -1,6 +1,6 @@
 {
   "name": "font-tidop-gis",
-  "version": "1.0.24",
+  "version": "1.0.25",
   "description": "Icon font set for use with GIS and spatial analysis tools",
   "main": "index.js",
   "scripts": {
